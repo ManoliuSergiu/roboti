@@ -1,0 +1,15 @@
+C:\Users\pc1\source\repos\robot\robot\bin\Debug\robot.exe.config
+C:\Users\pc1\source\repos\robot\robot\bin\Debug\robot.exe
+C:\Users\pc1\source\repos\robot\robot\bin\Debug\robot.pdb
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot.csprojResolveAssemblyReference.cache
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\MainWindow.g.cs
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\App.g.cs
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot_MarkupCompile.cache
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot_MarkupCompile.lref
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\MainWindow.baml
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot.g.resources
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot.Properties.Resources.resources
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot.csproj.GenerateResource.Cache
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot.exe
+C:\Users\pc1\source\repos\robot\robot\obj\Debug\robot.pdb
